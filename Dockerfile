@@ -1,4 +1,4 @@
-FROM golang:1.10-alpine3.7 
+FROM 180.76.52.98/public/golang:1.10-alpine3.7
 
 ADD . /go/src/github.com/miaowukong/k8s-demo
 
